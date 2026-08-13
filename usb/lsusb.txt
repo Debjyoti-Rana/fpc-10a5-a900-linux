@@ -1,0 +1,1 @@
+Bus 003 Device 002: ID 10a5:a900 FPC FPC Sensor Controller L:0002 FW:22.26.2.29
